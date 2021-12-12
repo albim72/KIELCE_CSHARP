@@ -1,0 +1,17 @@
+Zadanie 1
+
+Zdefiniuj metodę Button1_Click :
+Pobierz Cena z pola nr 2
+Sprawdź czy zadana w polu formularza cena jest większa lub równa cenia w tabeli Produkty(CenaJednostkowa)
+Wyświetl w etykiecie wynik wszsytkie rekordy spełniające warunek
+
+
+Zdefiniuj metodę Button2_Click:
+
+Napisz zapytanie w którym wyświetlisz dane: IDproduktu, NazwaProduktu, Cenajednostkowa (Szczegóły zam), CenaJednostkowa (Produkty)
+Wys,wietl tylko te produktu, których Cena sprzedaży jest niższa niż CenaJednostkowa(Produkty)
+
+
+
+Zadanie 2
+Projekt zadaniewstępne KLUB przekształć tak żeby rejestorwać wpis do bazy danych, zrób wersję webową.
